@@ -102,16 +102,3 @@ while (setState == True ) :
 # to quit the webdriver that we have opened . 
 
 
-
-# tuto : 
-# to send some information such as input data to login or to sign up we should import first  keys from 
-# common webdriver selenium using the next syntax : from selenium.webdriver.Keys import Keys 
-# to send data from localhost to the server : 
-# webdriver.Chrome().find_element(By.XPATH , "parse here the xpath of the input").send_keys('here parse the data') 
-# driver.quit() : to quit the webdriver . 
-# .text to get  the text of the selected item . 
-# .implicitly_wait(time) : to wait a certain number of time until a certain command is estabished . 
-# The zip function iterates over several iterables in parallel and produces tuples with an item from each iterable.
-
-
-
